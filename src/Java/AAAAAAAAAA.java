@@ -1,6 +1,6 @@
-package HelloPackage;
+package Java;
 
-public class NewClass {
+public class AAAAAAAAAA {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
